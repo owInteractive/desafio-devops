@@ -67,9 +67,9 @@ bz2, calendar, Core, ctype, curl, date, dom, exif, fileinfo, filter, ftp, gd, ge
 
 
 
-1. **Criar a aplicação utilizando o framework Nuxt.JS.**
-2. **Consumir o JSON que vem da aplicação backend utilizando a biblioteca Axios.**
-3. **No desenvolvimento do consumo do JSON utilizar de alguma forma o Redis.**
+<!-- 1. **Criar a aplicação utilizando o framework Nuxt.JS.** -->
+1. **Consumir o JSON que vem da aplicação backend utilizando a biblioteca Axios.**
+2. **No desenvolvimento do consumo do JSON utilizar de alguma forma o Redis.**
 
 
 ### **Etapa 3 - Documentação**
