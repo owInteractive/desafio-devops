@@ -61,8 +61,7 @@ bz2, calendar, Core, ctype, curl, date, dom, exif, fileinfo, filter, ftp, gd, ge
     *   Node >= 8.*
     *   Redis >= 5.*
 
-**A aplicação deve ser acessado a partir do endereço [localhost:3000](http://localhost:3000) \
-**
+**A aplicação deve ser acessado a partir do endereço [localhost:3000](http://localhost:3000)**
 
 **Diferenciais:**
 
